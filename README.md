@@ -2,7 +2,7 @@
 
 Currently:
 - Building process optimization solutions
-- Building [{clarity}](https://claritynotes.xyz) on the side
+- Building [{claritynotes.xyz}](https://claritynotes.xyz) on the side
 - Studying chemical engineering and finance at Nanyang Technological University
 - Exploring about software, AI & ML 
 
