@@ -1,4 +1,4 @@
-### Hi there, Anderson Chen
+### Hi there, I'm Anderson Chen
 
 Currently:
 - Building opt solutions for manufacturing industries
